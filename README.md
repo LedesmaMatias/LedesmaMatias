@@ -39,7 +39,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" width=75 height=75 title="Asp.NET">
   </a>
   <a href="https://spring.io" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width=75 height=75 title="JSP">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width=75 height=75 title="Spring">
   </a>
 </p>
 
