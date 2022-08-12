@@ -38,8 +38,8 @@
   <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" width=75 height=75 title="Asp.NET">
   </a>
-  <a href="https://desarrolloweb.com/articulos/831.php" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/28/28968.png" width=75 height=75 title="JSP">
+  <a href="https://spring.io" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width=75 height=75 title="JSP">
   </a>
 </p>
 
